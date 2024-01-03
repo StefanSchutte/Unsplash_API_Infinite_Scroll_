@@ -4,6 +4,7 @@ This is a simple web application that leverages the Unsplash API to display an i
 
 ![2024-01-03_14-43](https://github.com/StefanSchutte/Unsplash_API_Infinite_Scroll_/assets/127427422/2f872c97-f886-4167-bd4a-79d02a770b1e)
 
+[Deployed Site](https://stefan-unsplash-api-infinite-scroll.netlify.app/)
 
 ### Features
 - Infinite scroll: The application continuously loads new images as the user scrolls down the page, providing an endless stream of random pictures from Unsplash.
