@@ -2,6 +2,9 @@
 
 This is a simple web application that leverages the Unsplash API to display an infinite scroll of random images. The application dynamically loads more images as the user scrolls down the page.
 
+![2024-01-03_14-43](https://github.com/StefanSchutte/Unsplash_API_Infinite_Scroll_/assets/127427422/2f872c97-f886-4167-bd4a-79d02a770b1e)
+
+
 ### Features
 - Infinite scroll: The application continuously loads new images as the user scrolls down the page, providing an endless stream of random pictures from Unsplash.
 
